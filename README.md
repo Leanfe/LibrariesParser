@@ -4,4 +4,11 @@
 
 ## Usage 🎁
 
-✨ Just start powershell script from PowerShell, then follow the instructions. ✨ 
+**Windows**
+- ✨ Just start powershell script from PowerShell, then follow the instructions. ✨ 
+
+**Linux**
+```
+chmod +x parser.sh
+./parser.sh
+```
