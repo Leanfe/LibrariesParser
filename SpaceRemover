@@ -1,0 +1,3 @@
+$file = Read-Host -Prompt 'Input filename for replace spaces.'
+
+(gc $file) | ? {$_.trim() -ne "" } | set-content $file
