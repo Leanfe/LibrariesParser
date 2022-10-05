@@ -5,7 +5,7 @@
 ## Usage 🎁
 
 **Windows**
-- ✨ Just start powershell script from PowerShell, then follow the instructions. ✨ 
+- ✨ Just start parser.ps1 script from PowerShell, then follow the instructions. ✨ 
 
 **Linux**
 ```
